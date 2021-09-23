@@ -1,1 +1,4 @@
-print("Nice")
+def hello():
+    print("Hallo du Schoggichäferli")
+
+hello()
