@@ -15,8 +15,3 @@ for i in range(num):
     print(' ' * z + '+' * x + ' ' * z)
     x+=2
     z-=1
-
-
-
-
-
