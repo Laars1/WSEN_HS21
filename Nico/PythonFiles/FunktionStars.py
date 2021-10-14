@@ -1,18 +1,16 @@
-import math
-
 #Definition einer Funktion (n) ist Parameter die die Funktion benötigt
-# def stars(n):
-#     stars = n * "*"
+def stars(n):
+    stars = n * "*"
     
-#     return stars
+    return stars
 
-# #stars(3)
+#stars(3)
 
-# def triangle(n):
+def triangle(n):
 
-#     for i in range(1,n+1):
-#         print(stars(i))
+    for i in range(1,n+1):
+        print(stars(i))
 
-# triangle(4)
+triangle(4)
 
 
