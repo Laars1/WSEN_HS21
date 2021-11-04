@@ -6,7 +6,7 @@ import math
 #x = float(input("Geben Sie bitte ihr Gewicht in Kilogramm ein: "))
 
 #bmi = x / (y * y)
-#print("Ihr BMI beträgt: " , bmi)
+#print("Ihr BMI beträgt:", bmi)
 
 #a = float(input("a: "))
 #b = float(input("b: "))
