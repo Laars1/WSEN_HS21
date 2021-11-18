@@ -9,3 +9,9 @@ except:
 
 String = "Test"
 print(String.replace("T","4"))
+
+
+_test = "print"
+
+
+print(_test)
