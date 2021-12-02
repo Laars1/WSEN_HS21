@@ -1,19 +1,4 @@
-#frage 10
-#meine lösung
-# 2/3 Punkte
-summe = 0
-for i in range(0,10,1):
-    wert = 2**i
-    summe += wert
 
-print(summe)
-
-#lösung
-summe2 = 0
-for i in range(10):
-    summe2 += 2**i
-
-print(summe2)
 
 
 #frage 12
